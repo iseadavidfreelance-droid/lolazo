@@ -1,0 +1,5 @@
+{
+  "name": "ALFA OS v0.2 - Genesis Kernel Dashboard",
+  "description": "A dashboard for monitoring and managing assets, pins, and system settings for the ALFA OS. This interface provides real-time insights into asset performance, financial transactions, and system-wide configurations.",
+  "requestFramePermissions": []
+}
